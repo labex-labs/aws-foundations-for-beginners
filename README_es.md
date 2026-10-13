@@ -8,19 +8,22 @@
   </a>
 </p>
 
-Da tus primeros pasos con AWS ejecutando comandos y observando los cambios de los recursos en AWS View. Aprenderás a identificar quién realiza una llamada, trabajar con regiones, encontrar los recursos adecuados y organizarlos con etiquetas.
+Construye un portafolio con ocho laboratorios guiados sobre EC2, publicación, acceso, S3 privado, roles, recuperación, registros y alarmas.
 
 [Iniciar curso en LabEx](https://labex.io/es/courses/aws-foundations-for-beginners)
 
 ## Ejercicios
 
-|   Índice | Nombre                                                | Dificultad   | Práctica                                                                                                                                                     |
-|----------|-------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | Primeros pasos con AWS en LabEx                       | Principiante | <a target='_blank' href='https://labex.io/es/labs/aws-get-started-with-aws-on-labex-727140?course=aws-foundations-for-beginners'>Iniciar lab</a>             |
-|        2 | Explora las regiones de AWS y la identidad de los ... | Principiante | <a target='_blank' href='https://labex.io/es/labs/aws-explore-aws-regions-and-resource-identity-727102?course=aws-foundations-for-beginners'>Iniciar lab</a> |
-|        3 | Encuentra recursos con AWS CLI                        | Principiante | <a target='_blank' href='https://labex.io/es/labs/aws-find-resources-with-the-aws-cli-727103?course=aws-foundations-for-beginners'>Iniciar lab</a>           |
-|        4 | Organiza recursos con etiquetas                       | Principiante | <a target='_blank' href='https://labex.io/es/labs/aws-organize-resources-with-tags-727104?course=aws-foundations-for-beginners'>Iniciar lab</a>              |
-|        5 | Faltan recursos en el inventario                      | Principiante | <a target='_blank' href='https://labex.io/es/labs/aws-missing-resources-in-the-inventory-727101?course=aws-foundations-for-beginners'>Iniciar desafío</a>    |
+|   Índice | Nombre                                                | Dificultad   | Práctica                                                                                                                                              |
+|----------|-------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | Inicia tu primer sitio de portafolio                  | Principiante | <a target='_blank' href='https://labex.io/es/labs/lab-launch-your-first-portfolio-website?course=aws-foundations-for-beginners'>Iniciar lab</a>       |
+|        2 | Publica tu página personal                            | Principiante | <a target='_blank' href='https://labex.io/es/labs/lab-publish-your-personal-homepage?course=aws-foundations-for-beginners'>Iniciar lab</a>            |
+|        3 | Controla el acceso a tu sitio                         | Principiante | <a target='_blank' href='https://labex.io/es/labs/lab-control-access-to-your-website?course=aws-foundations-for-beginners'>Iniciar lab</a>            |
+|        4 | Guarda materiales del portafolio en S3                | Principiante | <a target='_blank' href='https://labex.io/es/labs/lab-store-portfolio-assets-in-s3?course=aws-foundations-for-beginners'>Iniciar lab</a>              |
+|        5 | Conecta el sitio a imágenes privadas de S3            | Principiante | <a target='_blank' href='https://labex.io/es/labs/lab-connect-your-website-to-private-s3-assets?course=aws-foundations-for-beginners'>Iniciar lab</a> |
+|        6 | Recupera una imagen sobrescrita del portafolio        | Principiante | <a target='_blank' href='https://labex.io/es/labs/lab-recover-an-overwritten-portfolio-asset?course=aws-foundations-for-beginners'>Iniciar lab</a>    |
+|        7 | Lee los registros de solicitudes del sitio            | Principiante | <a target='_blank' href='https://labex.io/es/labs/lab-read-your-website-request-logs?course=aws-foundations-for-beginners'>Iniciar lab</a>            |
+|        8 | Detecta errores del sitio y confirma su recuperaci... | Principiante | <a target='_blank' href='https://labex.io/es/labs/lab-detect-and-recover-from-website-errors?course=aws-foundations-for-beginners'>Iniciar lab</a>    |
 
 ## Acerca de LabEx
 

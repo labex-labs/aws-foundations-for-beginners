@@ -8,19 +8,22 @@
   </a>
 </p>
 
-Сделайте первые шаги в AWS, выполняя команды и наблюдая изменения ресурсов в AWS View. Вы научитесь определять вызывающую идентичность, работать с регионами, находить нужные ресурсы и упорядочивать их с помощью тегов.
+Создайте портфолио в восьми пошаговых работах: EC2, публикация, доступ, закрытый S3, роли, восстановление, журналы и alarms.
 
 [Начать курс на LabEx](https://labex.io/ru/courses/aws-foundations-for-beginners)
 
 ## Упражнения
 
-|   Индекс | Название                                    | Сложность   | Практика                                                                                                                                                            |
-|----------|---------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | Первые шаги с AWS на LabEx                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/aws-get-started-with-aws-on-labex-727140?course=aws-foundations-for-beginners'>Начать лабораторию</a>             |
-|        2 | Изучите регионы AWS и идентичность ресурсов | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/aws-explore-aws-regions-and-resource-identity-727102?course=aws-foundations-for-beginners'>Начать лабораторию</a> |
-|        3 | Найдите ресурсы с помощью AWS CLI           | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/aws-find-resources-with-the-aws-cli-727103?course=aws-foundations-for-beginners'>Начать лабораторию</a>           |
-|        4 | Упорядочьте ресурсы с помощью тегов         | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/aws-organize-resources-with-tags-727104?course=aws-foundations-for-beginners'>Начать лабораторию</a>              |
-|        5 | Недостающие ресурсы в инвентаризации        | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/aws-missing-resources-in-the-inventory-727101?course=aws-foundations-for-beginners'>Начать испытание</a>          |
+|   Индекс | Название                                              | Сложность   | Практика                                                                                                                                                     |
+|----------|-------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | Запустите свой первый сайт-портфолио                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/lab-launch-your-first-portfolio-website?course=aws-foundations-for-beginners'>Начать лабораторию</a>       |
+|        2 | Опубликуйте личную главную страницу                   | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/lab-publish-your-personal-homepage?course=aws-foundations-for-beginners'>Начать лабораторию</a>            |
+|        3 | Управляйте доступом к сайту                           | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/lab-control-access-to-your-website?course=aws-foundations-for-beginners'>Начать лабораторию</a>            |
+|        4 | Сохраните материалы портфолио в S3                    | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/lab-store-portfolio-assets-in-s3?course=aws-foundations-for-beginners'>Начать лабораторию</a>              |
+|        5 | Подключите сайт к закрытым изображениям S3            | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/lab-connect-your-website-to-private-s3-assets?course=aws-foundations-for-beginners'>Начать лабораторию</a> |
+|        6 | Восстановите перезаписанное изображение портфолио     | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/lab-recover-an-overwritten-portfolio-asset?course=aws-foundations-for-beginners'>Начать лабораторию</a>    |
+|        7 | Прочитайте журналы запросов сайта                     | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/lab-read-your-website-request-logs?course=aws-foundations-for-beginners'>Начать лабораторию</a>            |
+|        8 | Обнаружьте ошибки сайта и подтвердите восстановлен... | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/lab-detect-and-recover-from-website-errors?course=aws-foundations-for-beginners'>Начать лабораторию</a>    |
 
 ## О LabEx
 

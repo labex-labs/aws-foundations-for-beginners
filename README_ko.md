@@ -8,19 +8,22 @@
   </a>
 </p>
 
-명령을 실행하고 AWS View에서 리소스 변화를 관찰하며 AWS의 첫걸음을 시작하세요. 호출자 확인, 리전 사용, 필요한 리소스 검색, 태그를 통한 정리를 배웁니다.
+가이드 랩 8개로 개인 포트폴리오를 만들며 EC2, 게시, 접근 제어, 비공개 S3, 역할, 복구, 로그와 알람을 배웁니다.
 
 [LabEx에서 코스 시작](https://labex.io/ko/courses/aws-foundations-for-beginners)
 
 ## 연습
 
-|   인덱스 | 이름                   | 난이도   | 연습                                                                                                                                                     |
-|-------|----------------------|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     1 | LabEx에서 AWS 시작하기     | 초급    | <a target='_blank' href='https://labex.io/ko/labs/aws-get-started-with-aws-on-labex-727140?course=aws-foundations-for-beginners'>실습 시작</a>             |
-|     2 | AWS 리전과 리소스 식별자 살펴보기 | 초급    | <a target='_blank' href='https://labex.io/ko/labs/aws-explore-aws-regions-and-resource-identity-727102?course=aws-foundations-for-beginners'>실습 시작</a> |
-|     3 | AWS CLI로 리소스 찾기      | 초급    | <a target='_blank' href='https://labex.io/ko/labs/aws-find-resources-with-the-aws-cli-727103?course=aws-foundations-for-beginners'>실습 시작</a>           |
-|     4 | 태그로 리소스 정리하기         | 초급    | <a target='_blank' href='https://labex.io/ko/labs/aws-organize-resources-with-tags-727104?course=aws-foundations-for-beginners'>실습 시작</a>              |
-|     5 | 인벤토리에서 누락된 리소스       | 초급    | <a target='_blank' href='https://labex.io/ko/labs/aws-missing-resources-in-the-inventory-727101?course=aws-foundations-for-beginners'>도전 시작</a>        |
+|   인덱스 | 이름                   | 난이도   | 연습                                                                                                                                              |
+|-------|----------------------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|     1 | 첫 포트폴리오 웹사이트 실행하기    | 초급    | <a target='_blank' href='https://labex.io/ko/labs/lab-launch-your-first-portfolio-website?course=aws-foundations-for-beginners'>실습 시작</a>       |
+|     2 | 개인 홈페이지 게시하기         | 초급    | <a target='_blank' href='https://labex.io/ko/labs/lab-publish-your-personal-homepage?course=aws-foundations-for-beginners'>실습 시작</a>            |
+|     3 | 웹사이트 접근 제어하기         | 초급    | <a target='_blank' href='https://labex.io/ko/labs/lab-control-access-to-your-website?course=aws-foundations-for-beginners'>실습 시작</a>            |
+|     4 | 포트폴리오 자료를 S3에 저장하기   | 초급    | <a target='_blank' href='https://labex.io/ko/labs/lab-store-portfolio-assets-in-s3?course=aws-foundations-for-beginners'>실습 시작</a>              |
+|     5 | 사이트를 비공개 S3 자료와 연결하기 | 초급    | <a target='_blank' href='https://labex.io/ko/labs/lab-connect-your-website-to-private-s3-assets?course=aws-foundations-for-beginners'>실습 시작</a> |
+|     6 | 덮어쓴 포트폴리오 자료 복구하기    | 초급    | <a target='_blank' href='https://labex.io/ko/labs/lab-recover-an-overwritten-portfolio-asset?course=aws-foundations-for-beginners'>실습 시작</a>    |
+|     7 | 웹사이트 요청 로그 읽기        | 초급    | <a target='_blank' href='https://labex.io/ko/labs/lab-read-your-website-request-logs?course=aws-foundations-for-beginners'>실습 시작</a>            |
+|     8 | 웹사이트 오류 감지하고 복구하기    | 초급    | <a target='_blank' href='https://labex.io/ko/labs/lab-detect-and-recover-from-website-errors?course=aws-foundations-for-beginners'>실습 시작</a>    |
 
 ## LabEx 소개
 

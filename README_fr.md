@@ -8,19 +8,22 @@
   </a>
 </p>
 
-Faites vos premiers pas avec AWS en exécutant des commandes et en observant les changements des ressources dans AWS View. Vous apprendrez à identifier l’appelant, à utiliser les régions, à trouver les bonnes ressources et à les organiser avec des balises.
+Créez un portfolio avec huit laboratoires guidés : EC2, publication, accès, S3 privé, rôles, restauration, journaux et alarmes.
 
 [Commencer le cours sur LabEx](https://labex.io/fr/courses/aws-foundations-for-beginners)
 
 ## Exercices
 
-|   Index | Nom                                                   | Difficulté   | Pratique                                                                                                                                                          |
-|---------|-------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | Premiers pas avec AWS sur LabEx                       | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/aws-get-started-with-aws-on-labex-727140?course=aws-foundations-for-beginners'>Commencer le lab</a>             |
-|       2 | Explorez les régions AWS et l'identité des ressour... | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/aws-explore-aws-regions-and-resource-identity-727102?course=aws-foundations-for-beginners'>Commencer le lab</a> |
-|       3 | Trouvez des ressources avec AWS CLI                   | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/aws-find-resources-with-the-aws-cli-727103?course=aws-foundations-for-beginners'>Commencer le lab</a>           |
-|       4 | Organisez les ressources avec des balises             | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/aws-organize-resources-with-tags-727104?course=aws-foundations-for-beginners'>Commencer le lab</a>              |
-|       5 | Ressources manquantes dans l'inventaire               | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/aws-missing-resources-in-the-inventory-727101?course=aws-foundations-for-beginners'>Commencer le défi</a>       |
+|   Index | Nom                                                   | Difficulté   | Pratique                                                                                                                                                   |
+|---------|-------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | Lancez votre premier portfolio                        | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/lab-launch-your-first-portfolio-website?course=aws-foundations-for-beginners'>Commencer le lab</a>       |
+|       2 | Publiez votre page personnelle                        | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/lab-publish-your-personal-homepage?course=aws-foundations-for-beginners'>Commencer le lab</a>            |
+|       3 | Contrôlez l’accès à votre site                        | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/lab-control-access-to-your-website?course=aws-foundations-for-beginners'>Commencer le lab</a>            |
+|       4 | Stockez les matériaux du portfolio dans S3            | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/lab-store-portfolio-assets-in-s3?course=aws-foundations-for-beginners'>Commencer le lab</a>              |
+|       5 | Reliez le site aux images S3 privées                  | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/lab-connect-your-website-to-private-s3-assets?course=aws-foundations-for-beginners'>Commencer le lab</a> |
+|       6 | Restaurez une image de portfolio écrasée              | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/lab-recover-an-overwritten-portfolio-asset?course=aws-foundations-for-beginners'>Commencer le lab</a>    |
+|       7 | Lisez les journaux des requêtes du site               | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/lab-read-your-website-request-logs?course=aws-foundations-for-beginners'>Commencer le lab</a>            |
+|       8 | Détectez les erreurs et confirmez le rétablissemen... | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/lab-detect-and-recover-from-website-errors?course=aws-foundations-for-beginners'>Commencer le lab</a>    |
 
 ## À propos de LabEx
 

@@ -8,19 +8,22 @@
   </a>
 </p>
 
-通过运行命令并在 AWS View 中观察资源变化，迈出学习 AWS 的第一步。你将学会识别调用者、使用区域、查找目标资源，并用标签组织资源。
+通过八个引导实验建设个人作品站，学习 EC2、内容发布、访问控制、私有 S3 素材、角色权限、版本恢复、日志与告警。
 
 [在 LabEx 开始课程](https://labex.io/zh/courses/aws-foundations-for-beginners)
 
 ## 练习
 
-|   序号 | 名称                | 难度   | 练习                                                                                                                                                    |
-|------|-------------------|------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    1 | 在 LabEx 上开始学习 AWS | 初级   | <a target='_blank' href='https://labex.io/zh/labs/aws-get-started-with-aws-on-labex-727140?course=aws-foundations-for-beginners'>开始实验</a>             |
-|    2 | 探索 AWS 区域与资源标识    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/aws-explore-aws-regions-and-resource-identity-727102?course=aws-foundations-for-beginners'>开始实验</a> |
-|    3 | 使用 AWS CLI 查找资源   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/aws-find-resources-with-the-aws-cli-727103?course=aws-foundations-for-beginners'>开始实验</a>           |
-|    4 | 使用标签组织资源          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/aws-organize-resources-with-tags-727104?course=aws-foundations-for-beginners'>开始实验</a>              |
-|    5 | 清单中缺失的资源          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/aws-missing-resources-in-the-inventory-727101?course=aws-foundations-for-beginners'>开始挑战</a>        |
+|   序号 | 名称            | 难度   | 练习                                                                                                                                             |
+|------|---------------|------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1 | 启动你的第一个个人作品站  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/lab-launch-your-first-portfolio-website?course=aws-foundations-for-beginners'>开始实验</a>       |
+|    2 | 发布你的个人主页      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/lab-publish-your-personal-homepage?course=aws-foundations-for-beginners'>开始实验</a>            |
+|    3 | 控制网站的访问权限     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/lab-control-access-to-your-website?course=aws-foundations-for-beginners'>开始实验</a>            |
+|    4 | 在 S3 中保存作品素材  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/lab-store-portfolio-assets-in-s3?course=aws-foundations-for-beginners'>开始实验</a>              |
+|    5 | 让网站读取私有 S3 素材 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/lab-connect-your-website-to-private-s3-assets?course=aws-foundations-for-beginners'>开始实验</a> |
+|    6 | 恢复误覆盖的作品素材    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/lab-recover-an-overwritten-portfolio-asset?course=aws-foundations-for-beginners'>开始实验</a>    |
+|    7 | 阅读网站请求日志      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/lab-read-your-website-request-logs?course=aws-foundations-for-beginners'>开始实验</a>            |
+|    8 | 发现网站错误并确认恢复   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/lab-detect-and-recover-from-website-errors?course=aws-foundations-for-beginners'>开始实验</a>    |
 
 ## 关于 LabEx
 

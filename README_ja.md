@@ -8,19 +8,22 @@
   </a>
 </p>
 
-コマンドを実行し、AWS View でリソースの変化を観察しながら、AWS の学習を始めましょう。呼び出し元の確認、リージョンの利用、目的のリソースの検索、タグによる整理を学びます。
+8 つのガイド付きラボで個人ポートフォリオを作り、EC2、公開、アクセス制御、非公開 S3、ロール、復元、ログ、アラームを学びます。
 
 [LabEx でコースを開始](https://labex.io/ja/courses/aws-foundations-for-beginners)
 
 ## 演習
 
-|   インデックス | 名前                           | 難易度   | 練習                                                                                                                                                     |
-|----------|------------------------------|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | LabEx で AWS を始める             | 初級    | <a target='_blank' href='https://labex.io/ja/labs/aws-get-started-with-aws-on-labex-727140?course=aws-foundations-for-beginners'>ラボを開始</a>             |
-|        2 | AWS リージョンとリソースのアイデンティティを理解する | 初級    | <a target='_blank' href='https://labex.io/ja/labs/aws-explore-aws-regions-and-resource-identity-727102?course=aws-foundations-for-beginners'>ラボを開始</a> |
-|        3 | AWS CLI でリソースを見つける           | 初級    | <a target='_blank' href='https://labex.io/ja/labs/aws-find-resources-with-the-aws-cli-727103?course=aws-foundations-for-beginners'>ラボを開始</a>           |
-|        4 | タグでリソースを整理する                 | 初級    | <a target='_blank' href='https://labex.io/ja/labs/aws-organize-resources-with-tags-727104?course=aws-foundations-for-beginners'>ラボを開始</a>              |
-|        5 | リソース一覧に見つからないリソース            | 初級    | <a target='_blank' href='https://labex.io/ja/labs/aws-missing-resources-in-the-inventory-727101?course=aws-foundations-for-beginners'>チャレンジを開始</a>     |
+|   インデックス | 名前                  | 難易度   | 練習                                                                                                                                              |
+|----------|---------------------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 初めてのポートフォリオサイトを起動する | 初級    | <a target='_blank' href='https://labex.io/ja/labs/lab-launch-your-first-portfolio-website?course=aws-foundations-for-beginners'>ラボを開始</a>       |
+|        2 | 自分のホームページを公開する      | 初級    | <a target='_blank' href='https://labex.io/ja/labs/lab-publish-your-personal-homepage?course=aws-foundations-for-beginners'>ラボを開始</a>            |
+|        3 | サイトへのアクセスを制御する      | 初級    | <a target='_blank' href='https://labex.io/ja/labs/lab-control-access-to-your-website?course=aws-foundations-for-beginners'>ラボを開始</a>            |
+|        4 | 作品素材を S3 に保存する      | 初級    | <a target='_blank' href='https://labex.io/ja/labs/lab-store-portfolio-assets-in-s3?course=aws-foundations-for-beginners'>ラボを開始</a>              |
+|        5 | サイトを非公開 S3 素材に接続する  | 初級    | <a target='_blank' href='https://labex.io/ja/labs/lab-connect-your-website-to-private-s3-assets?course=aws-foundations-for-beginners'>ラボを開始</a> |
+|        6 | 上書きした作品素材を復元する      | 初級    | <a target='_blank' href='https://labex.io/ja/labs/lab-recover-an-overwritten-portfolio-asset?course=aws-foundations-for-beginners'>ラボを開始</a>    |
+|        7 | サイトのリクエストログを読む      | 初級    | <a target='_blank' href='https://labex.io/ja/labs/lab-read-your-website-request-logs?course=aws-foundations-for-beginners'>ラボを開始</a>            |
+|        8 | サイト障害を検知して復旧する      | 初級    | <a target='_blank' href='https://labex.io/ja/labs/lab-detect-and-recover-from-website-errors?course=aws-foundations-for-beginners'>ラボを開始</a>    |
 
 ## LabEx について
 

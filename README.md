@@ -8,19 +8,22 @@
   </a>
 </p>
 
-Start with Terminal and AWS View, then identify regional resources, query inventories, organize tags, and diagnose an incomplete selection with the AWS CLI.
+Build and operate a personal portfolio website through eight guided AWS labs: EC2, publishing, access rules, private S3 assets, recovery, logs and alarms.
 
 [Start Course on LabEx](https://labex.io/courses/aws-foundations-for-beginners)
 
 ## Exercises
 
-|   Index | Name                                      | Difficulty   | Practice                                                                                                                                                |
-|---------|-------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | Get Started with AWS on LabEx             | Beginner     | <a target='_blank' href='https://labex.io/labs/aws-get-started-with-aws-on-labex-727140?course=aws-foundations-for-beginners'>Start Lab</a>             |
-|       2 | Explore AWS Regions and Resource Identity | Beginner     | <a target='_blank' href='https://labex.io/labs/aws-explore-aws-regions-and-resource-identity-727102?course=aws-foundations-for-beginners'>Start Lab</a> |
-|       3 | Find Resources with the AWS CLI           | Beginner     | <a target='_blank' href='https://labex.io/labs/aws-find-resources-with-the-aws-cli-727103?course=aws-foundations-for-beginners'>Start Lab</a>           |
-|       4 | Organize Resources with Tags              | Beginner     | <a target='_blank' href='https://labex.io/labs/aws-organize-resources-with-tags-727104?course=aws-foundations-for-beginners'>Start Lab</a>              |
-|       5 | Missing Resources in the Inventory        | Beginner     | <a target='_blank' href='https://labex.io/labs/aws-missing-resources-in-the-inventory-727101?course=aws-foundations-for-beginners'>Start Challenge</a>  |
+|   Index | Name                                      | Difficulty   | Practice                                                                                                                                         |
+|---------|-------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | Launch Your First Portfolio Website       | Beginner     | <a target='_blank' href='https://labex.io/labs/lab-launch-your-first-portfolio-website?course=aws-foundations-for-beginners'>Start Lab</a>       |
+|       2 | Publish Your Personal Homepage            | Beginner     | <a target='_blank' href='https://labex.io/labs/lab-publish-your-personal-homepage?course=aws-foundations-for-beginners'>Start Lab</a>            |
+|       3 | Control Access to Your Website            | Beginner     | <a target='_blank' href='https://labex.io/labs/lab-control-access-to-your-website?course=aws-foundations-for-beginners'>Start Lab</a>            |
+|       4 | Store Portfolio Assets in S3              | Beginner     | <a target='_blank' href='https://labex.io/labs/lab-store-portfolio-assets-in-s3?course=aws-foundations-for-beginners'>Start Lab</a>              |
+|       5 | Connect Your Website to Private S3 Assets | Beginner     | <a target='_blank' href='https://labex.io/labs/lab-connect-your-website-to-private-s3-assets?course=aws-foundations-for-beginners'>Start Lab</a> |
+|       6 | Recover an Overwritten Portfolio Asset    | Beginner     | <a target='_blank' href='https://labex.io/labs/lab-recover-an-overwritten-portfolio-asset?course=aws-foundations-for-beginners'>Start Lab</a>    |
+|       7 | Read Your Website Request Logs            | Beginner     | <a target='_blank' href='https://labex.io/labs/lab-read-your-website-request-logs?course=aws-foundations-for-beginners'>Start Lab</a>            |
+|       8 | Detect and Recover from Website Errors    | Beginner     | <a target='_blank' href='https://labex.io/labs/lab-detect-and-recover-from-website-errors?course=aws-foundations-for-beginners'>Start Lab</a>    |
 
 ## About LabEx
 
